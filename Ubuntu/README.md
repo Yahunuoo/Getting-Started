@@ -61,5 +61,5 @@ This should print **`/usr/bin/zsh`**
 >[!NOTE]
 > 📌 ***Done :) end the session `or` go to next step***
 
-- [VSCode](../VSCode) Configuring VSCode
+- [VSCode](../VSCode/Ubuntu-Configuring-VSCode.md) Configuring VSCode
 - [GitHub](../GitHub) Configuring | Generate access token
