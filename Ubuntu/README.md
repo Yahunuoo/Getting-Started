@@ -8,7 +8,7 @@ sudo apt update && sudo apt upgrade
 
 ![!Updating](../Assets/Updating.png)
 
->### curl
+>## curl
 
 Since you already have the terminal open, take the opportunity to install curl, which will let you install applications with just a URL, as you'll see us do soon. Use this command:
 
