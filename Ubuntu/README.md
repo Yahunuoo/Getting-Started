@@ -59,10 +59,10 @@ This should print **`/usr/bin/zsh`**
 ![zsh in action!](../Assets/terminal-3.png)
 
 
+>[!NOTE]
+>#### 📌 ***Done :) You can continue working or end the session***
+
 
 - [VSCode](../VSCode) Configuring VSCode
 - [GitHub](../GitHub) Configuring | Generate access token
 
-
->[!NOTE]
->#### 📌 ***Done :) You can continue working or end the session***
