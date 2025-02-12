@@ -16,7 +16,7 @@ Since you already have the terminal open, take the opportunity to install curl, 
 sudo apt install curl
 ```
 
-## Zsh
+>## Zsh
 
 Bash is Ubuntu's default shell (command interpreter), but Z shell is more commonly used in modern systems by default, so that's what we will use. Install it with this command, and accept the changes to be made by entering **`Y`** when prompted to continue:
 
