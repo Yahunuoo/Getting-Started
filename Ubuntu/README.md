@@ -60,8 +60,7 @@ This should print **`/usr/bin/zsh`**
 
 
 >[!NOTE]
->#### 📌 ***Done :) You can continue working or end the session***
-
+>#### 📌 ***Done :) end the session `or` go to next step ***
 
 - [VSCode](../VSCode) Configuring VSCode
 - [GitHub](../GitHub) Configuring | Generate access token
