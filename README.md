@@ -1,6 +1,6 @@
 # Prerequisites
 
-### Quick access to the most commonly used command line
+## Quick access to the most commonly used command line
 
 >📌 [Command line](./Most-used-command-line)
 
