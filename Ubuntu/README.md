@@ -62,3 +62,7 @@ This should print **`/usr/bin/zsh`**
 
 - [VSCode](../VSCode) Configuring VSCode
 - [GitHub](../GitHub) Configuring | Generate access token
+
+
+>[!NOTE]
+>#### 📌 ***Done :) You can continue working or end the session***
