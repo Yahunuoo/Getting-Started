@@ -76,4 +76,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ## step 3
 
 - [VSCode](../VSCode/Ubuntu-Configuring-VSCode.md) Configuring VSCode
+
+## step 4
+
 - [GitHub](../GitHub) Configuring | Generate access token
