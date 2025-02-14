@@ -10,3 +10,5 @@
 - [Windows 11](./Windows-11) Configuring a development environment
 - [Ubuntu](./Ubuntu/README.md) Configuring a development environment
 - [Mac](./Mac/README.md) Configuring a development environment  
+
+[![Windows 10](./Assets/windows.svg)](./Windows-10) Configuring a development environment
