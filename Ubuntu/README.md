@@ -1,4 +1,4 @@
-# Ubuntu
+# Configuring a development environment to Ubuntu
 
 >## Updating and upgrading packages
 
