@@ -1,6 +1,6 @@
 # Configuring a development environment to Ubuntu
 
-## sutep 1
+## step 1
 
 >**Updating and upgrading packages**
 
@@ -10,7 +10,7 @@ sudo apt update && sudo apt upgrade
 
 ![!Updating](../Assets/Updating.png)
 
->## curl
+>**curl**
 
 Since you already have the terminal open, take the opportunity to install curl, which will let you install applications with just a URL, as you'll see us do soon. Use this command:
 
@@ -18,7 +18,7 @@ Since you already have the terminal open, take the opportunity to install curl, 
 sudo apt install curl
 ```
 
->## Zsh
+>**Zsh**
 
 Bash is Ubuntu's default shell (command interpreter), but Z shell is more commonly used in modern systems by default, so that's what we will use. Install it with this command, and accept the changes to be made by entering **`Y`** when prompted to continue:
 
