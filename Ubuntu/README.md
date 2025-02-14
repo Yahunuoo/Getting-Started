@@ -73,7 +73,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ![oh my zsh!](../Assets/Oh-My-Zsh.png)
 
->[!NOTE]
 > ***end the session `and` go to next step***
 
 ## step 3
