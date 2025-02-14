@@ -68,10 +68,13 @@ This should print **`/usr/bin/zsh`**
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
+>[!NOTE]
+> 📌 ***Note that your prompt has now changed to simply be `~` This is the desired outcome***
+
 ![oh my zsh!](../Assets/Oh-My-Zsh.png)
 
 >[!NOTE]
-> 📌 ***Note that your prompt has now changed to simply be `~` This is the desired outcome, end the session `and` go to next step***
+> ***end the session `and` go to next step***
 
 ## step 3
 
