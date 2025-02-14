@@ -1,6 +1,8 @@
 # Configuring a development environment to Ubuntu
 
->## Updating and upgrading packages
+## sutep 1
+
+>**Updating and upgrading packages**
 
 ```bash
 sudo apt update && sudo apt upgrade
