@@ -4,9 +4,9 @@
 
 >📌 [Command line](./Most-used-command-line)
 
-### preparing workstation and tools for programming depends on the operating system
+>***preparing and configuring a workstation and development environment for programming for the operating system depends***
 
-- [Configuring a development environment to **`Windows 10`**](./Windows-10)
-- [Configuring a development environment to **`Windows 11`**](./Windows-11)
-- [Configuring a development environment to **`Ubuntu`**](./Ubuntu/README.md)
-- [Configuring a development environment to **`Mac`**](./Mac/README.md)
+- [Windows 10](./Windows-10)
+- [Windows 11](./Windows-11)
+- [Ubuntu](./Ubuntu/README.md)
+- [Mac](./Mac/README.md)
