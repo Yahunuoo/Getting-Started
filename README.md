@@ -4,7 +4,7 @@
 
 >📌 [Command line](./Most-used-command-line)
 
-***preparing and configuring a workstation and development environment for programming to operating system***
+### preparing and configuring a workstation and development environment for programming to operating system
 
 - [Windows 10](./Windows-10)
 - [Windows 11](./Windows-11)
