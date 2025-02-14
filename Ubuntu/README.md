@@ -62,7 +62,7 @@ This should print **`/usr/bin/zsh`**
 
 ## step 2
 
-## Oh My Zsh
+>**Oh My Zsh**
 
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
