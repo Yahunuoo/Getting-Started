@@ -60,6 +60,16 @@ This should print **`/usr/bin/zsh`**
 
 ![zsh in action!](../Assets/terminal-3.png)
 
+## step 2
+
+## Oh My Zsh
+
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+>[!NOTE]
+> 📌 ***Note that your prompt has now changed to simply be ~. This is the desired outcome!***
 >[!NOTE]
 > 📌 ***Done :) end the session `or` go to next step***
 
