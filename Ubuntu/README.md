@@ -79,4 +79,4 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ## step 4
 
-[Configuring | Generate access token GitHub](../GitHub) 
+[Configuring | Generate access token GitHub](../GitHub)
