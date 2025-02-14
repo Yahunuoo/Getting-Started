@@ -69,10 +69,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```
 
 >[!NOTE]
-> 📌 ***Note that your prompt has now changed to simply be ~. This is the desired outcome!***
-
->[!NOTE]
-> 📌 ***Done :) end the session `or` go to next step***
+> 📌 ***Note that your prompt has now changed to simply be ~. This is the desired outcome, end the session `and` go to next step***
 
 - [VSCode](../VSCode/Ubuntu-Configuring-VSCode.md) Configuring VSCode
 - [GitHub](../GitHub) Configuring | Generate access token
