@@ -6,7 +6,7 @@
 
 ### preparing workstation and tools for programming depends on the operating system
 
-- [`Windows` 10 Configuring a development environment](./Windows-10)
+- [Configuring a development environment to windows 10](./Windows-10)
 - [Windows 11](./Windows-11) Configuring a development environment
 - [Ubuntu](./Ubuntu/README.md) Configuring a development environment
 - [Mac](./Mac/README.md) Configuring a development environment  
