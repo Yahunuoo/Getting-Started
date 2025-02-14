@@ -70,6 +70,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 >[!NOTE]
 > 📌 ***Note that your prompt has now changed to simply be ~. This is the desired outcome!***
+
 >[!NOTE]
 > 📌 ***Done :) end the session `or` go to next step***
 
