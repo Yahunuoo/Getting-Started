@@ -6,4 +6,4 @@
 
 Download and install the `.deb` package for VS Code **[here](https://code.visualstudio.com/)**
 
-> ***end the session py return `and` go to next step***
+> ***end the session py [return](../Ubuntu/README.md) for next step***
