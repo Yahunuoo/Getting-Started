@@ -90,3 +90,5 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ## step 6
 
 [Setting up and preparing the programming language environment](../Programming-Language-Environment/README.md)
+
+Done set up to start developing in Ubuntu!
