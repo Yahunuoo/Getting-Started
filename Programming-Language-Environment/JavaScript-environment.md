@@ -33,3 +33,18 @@ It’s a very long list. You can install a version of Node by writing in any of 
 ```bash
 nvm install 
 ```
+
+> note: command not found: nvm error
+
+Copy this command block and run it in the terminal, which will point to the nvm directory in your ~/.zshrc file
+
+```bash
+cat << EOF >> ~/.zshrc
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \\. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \\. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+EOF
+
+```
+
