@@ -82,3 +82,11 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ## step 4
 
 [Configuring & Generate access token GitHub](../GitHub/Ubuntu-Configuring-GitHub.md)
+
+## step 5
+
+[Configuring a .gitignore global file](../Assets/gitignore_global.md)
+
+## step 6
+
+[[Configuring a .gitignore global file](../Assets/gitignore_global.md)](../../JavaScript-Documentation/README.md)
