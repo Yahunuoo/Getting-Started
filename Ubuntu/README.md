@@ -92,4 +92,4 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 [Setting up and preparing the programming language environment](../Programming-Language-Environment/README.md)
 
 >[!NOTE]
-> 📌 ***Done set up to start developing in Ubuntu!***
+> 📌 ***setup to start developing in ubuntu has done***
