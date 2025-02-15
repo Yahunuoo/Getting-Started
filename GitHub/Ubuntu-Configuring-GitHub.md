@@ -1,6 +1,6 @@
 # Ubuntu Configuring & Generate access token GitHub
 
-***Configuring***
+## Git config
 
 >access to the most recent stable version of Git with this command
 
@@ -19,8 +19,6 @@ sudo apt-get update
 ```bash
 sudo apt-get install git
 ```
-
-## Git config
 
 ```bash
 git config --global user.name "User Name"
@@ -46,23 +44,7 @@ echo "export GIT_MERGE_AUTOEDIT=no" >> ~/.zshrc
 git config --global pull.rebase false
 ```
 
->Configuring a .gitignore_global file
-
-```bash
-touch ~/.gitignore_global
-```
-
-```bash
-git config --global core.excludesfile ~/.gitignore_global
-```
-
-```bash
-code ~/.gitignore_global
-```
-
->add gitignore_global
-
-***Here is a [.gitignore_global file to use](../Assets/gitignore_global.md)***
+## Generate access token
 
 >[!NOTE]
 > 📌 ***Done :) end the session `and` go to next step***
