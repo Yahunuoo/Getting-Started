@@ -11,4 +11,6 @@
 >[!NOTE]
 > 📌 ***turn on `Auto Save` setting is in the File menu***
 
+![vscode auto save](../Assets/vscode-auto-save.png)
+
 ***end the session py [return](../Ubuntu/README.md) for next step***
