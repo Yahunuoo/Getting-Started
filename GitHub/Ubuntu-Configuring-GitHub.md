@@ -1,4 +1,6 @@
-# Ubuntu configuring GitHub
+# Ubuntu Configuring & Generate access token GitHub
+
+***Configuring***
 
 >access to the most recent stable version of Git with this command
 
