@@ -46,5 +46,8 @@ git config --global pull.rebase false
 
 ## Generate access token
 
+[Click here github generate access codes](https://github.com/settings/tokens)
+![generate access codes 1](../generate-access-codes-1.png)
+
 >[!NOTE]
 > 📌 ***Done :) end the session `and` go to next step***
