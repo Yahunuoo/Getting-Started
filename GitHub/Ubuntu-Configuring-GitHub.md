@@ -52,5 +52,6 @@ git config --global pull.rebase false
 
 >On the Personal access tokens (classic) page, click Generate new token and then Generate new token (classic)
 
-[!NOTE]
+
+>[!NOTE]
 > 📌 ***Done :) end the session `and` go to next step***
