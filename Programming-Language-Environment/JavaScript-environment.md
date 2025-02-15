@@ -48,3 +48,4 @@ EOF
 
 ```
 
+Restart your terminal. You should now be able to run the nvm --version command and get a version number in response
