@@ -50,7 +50,9 @@ git config --global pull.rebase false
 
 ![generate access codes 1](../Assets/generate-access-codes-1.png)
 
->On the Personal access tokens (classic) page, click Generate new token and then Generate new token (classic)
+On the Personal access tokens (classic) page, click Generate new token and then Generate new token (classic)
+
+![generate access codes 2](../Assets/generate-access-codes-2.png)
 
 >[!NOTE]
 > 📌 ***Done :) end the session `and` go to next step***
