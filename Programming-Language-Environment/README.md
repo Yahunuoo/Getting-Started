@@ -2,4 +2,4 @@
 
 ***Select the programming language to set up its environment***
 
-- [JavaScript](../../JavaScript/README.md)
+- [JavaScript](../../JavaScript/)
