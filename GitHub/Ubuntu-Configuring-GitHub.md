@@ -46,7 +46,7 @@ git config --global pull.rebase false
 
 ## Generate access token
 
-[Click here github generate access codes](https://github.com/settings/tokens)
+>[Click here github generate access codes](https://github.com/settings/tokens)
 
 ![generate access codes 1](../Assets/generate-access-codes-1.png)
 
