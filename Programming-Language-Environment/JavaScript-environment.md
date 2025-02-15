@@ -49,3 +49,21 @@ EOF
 ```
 
 Restart your terminal. You should now be able to run the nvm --version command and get a version number in response
+
+NPM config
+
+Run this command to disable npm update notifications since this process is managed by nvm
+
+```bash
+npm config set update-notifier false
+```
+
+There will be no output after running this command
+
+>**3- install nodemon**
+
+With Node.js installed, install nodemon globally with this command:
+
+```bash
+npm i -g nodemon
+```
