@@ -19,7 +19,8 @@ nvm --version
 ```
 
 >**2- install node.js**
->syntax = nvm install `Enter the required release`
+
+syntax = nvm install `Enter the required release`
 
 ask NVM which versions of Node are available
 
