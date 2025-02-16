@@ -2,6 +2,10 @@
 
 ## step 1
 
+[install & Configuring VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
+
+## step 2
+
 >**Updating and upgrading packages**
 
 ```bash
@@ -60,7 +64,7 @@ This should print **`/usr/bin/zsh`**
 
 ![zsh in action!](../Assets/terminal-3.png)
 
-## step 2
+## step 3
 
 >**Oh My Zsh**
 
@@ -75,9 +79,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 > ***end the session `and` go to next step***
 
-## step 3
-
-[install & Configuring VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
 
 ## step 4
 
