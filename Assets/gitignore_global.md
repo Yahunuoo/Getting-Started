@@ -1,3 +1,25 @@
+# create a .gitignore global file in the user directory
+
+create a .gitignore_global
+
+```pash
+touch ~/.gitignore_global
+```
+
+Next, configure Git to use this file
+
+```pash
+git config --global core.excludesfile ~/.gitignore_global
+```
+
+Open the new .gitignore_global file in VS Code:
+
+```pash
+code ~/.gitignore_global
+```
+
+>Use the one below
+
 ```plaintext
 # This is a list of rules for ignoring files in every Git repository on your
 # computer. See https://help.github.com/articles/ignoring-files
@@ -9,6 +31,11 @@
 # typically be ignored on a per-project basis with a .gitignore in that
 # project's root directory.
 # This repository can be found at: https://github.com/github/gitignore
+
+# This file DOES include items that would typically not be gitignored globally
+# for simplicity during the course, but this may cause issues as you further
+# your education post-SEI. These items are denoted when used here and are kept
+# to a minimum.
 
 ###############################################################################
 #   The items in this section are generally safe be globally gitignored and   #
