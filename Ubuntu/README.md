@@ -2,7 +2,7 @@
 
 ## step 1
 
-[install & Configuring VSCode](../VSCode/Ubuntu-Configuring-VSCode.md"target="_blank")
+[install & Configuring VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
 
 ## step 2
 
