@@ -79,7 +79,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 > ***end the session `and` go to next step***
 
-
 ## step 4
 
 [Configuring & Generate access token GitHub](../GitHub/Ubuntu-Configuring-GitHub.md)
