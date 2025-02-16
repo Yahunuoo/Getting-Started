@@ -2,7 +2,7 @@
 
 ## step 1
 
-[install & Configuring VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
+[install & Configuring VSCode](../VSCode/Ubuntu-Configuring-VSCode.md){:target="_blank" rel="noopener"}
 
 ## step 2
 
