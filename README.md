@@ -4,7 +4,7 @@
 
 >📌 [Command line](./Most-used-command-line)
 
->📌 [Things](../Getting-Started/Assets/things.md)
+>📌 [Things](./Assets/things.md)
 
 ***preparing and configuring a workstation and development environment for programming to operating system***
 
