@@ -4,6 +4,8 @@
 
 >📌 [Command line](./Most-used-command-line)
 
+>📌 [Things](../Getting-Started/Assets/things.md)
+
 ***preparing and configuring a workstation and development environment for programming to operating system***
 
 - [Windows 10](./Windows-10)
