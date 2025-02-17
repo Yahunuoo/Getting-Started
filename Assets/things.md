@@ -7,4 +7,4 @@
 >web
 
 - [Test your JavaScript, CSS, HTM online](https://jsfiddle.net/)
-- [Universal Database Tool]([text](https://dbeaver.io/))
+- [Universal Database Tool](https://dbeaver.io/)
