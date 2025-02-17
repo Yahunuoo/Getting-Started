@@ -13,4 +13,4 @@
 >Books and Education
 
 - [Advance your tech knowledge | Books, Videos](https://www.packtpub.com/en-us)
-- [`MDN` site provides information about Open Web technologies](https://developer.mozilla.org/en-US/)
+- [`MDN -` site provides information about Open Web technologies](https://developer.mozilla.org/en-US/)
