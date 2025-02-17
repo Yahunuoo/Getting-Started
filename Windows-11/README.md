@@ -1,4 +1,4 @@
-### WindoConfiguring a development environment in Windows 11
+### Windows Configuring a development environment in Windows 11
 
 
 - Zsh
