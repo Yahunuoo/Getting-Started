@@ -8,3 +8,4 @@
 
 - [Test your JavaScript, CSS, HTM online](https://jsfiddle.net/)
 - [Universal Database Tool](https://dbeaver.io/)
+- [JSON viewer to visualize, format and explore](https://jsoncrack.com/)
