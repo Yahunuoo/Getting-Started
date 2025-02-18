@@ -1,12 +1,20 @@
-<h1 align="center">
- <img src="../Assets/ubuntu-image.png">
-  <br />
-  Configuring a development environment to Ubuntu
-</h1>
+<p align="center">
+  <img src="../Assets/ubuntu-image.png">
+</p>
+
+1. [step 1](../VSCode/Ubuntu-Configuring-VSCode.md#step-1)
+    - [install VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
+    - [Configuring VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
+    - [`optional`Additional extensions](../VSCode/Ubuntu-Configuring-VSCode.md)
+
+
+
+
+
+
 
 ## step 1
 
-[install & Configuring VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
 
 ## step 2
 
