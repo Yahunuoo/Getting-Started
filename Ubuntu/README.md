@@ -5,7 +5,7 @@
 </h1>
 
 1. [VSCode](./README.md#VSCode)
-    - [install VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
+    - [install VSCode](../VSCode/Ubuntu-Configuring-VSCode.md#step-noo)
     - [Configuring VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
     - [**optional** - Additional extensions](../VSCode/Ubuntu-Configuring-VSCode.md)
 
