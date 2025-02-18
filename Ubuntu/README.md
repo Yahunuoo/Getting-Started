@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 <h1 align="center">
   <img src="../Assets/ubuntu-image.png">
   <br />

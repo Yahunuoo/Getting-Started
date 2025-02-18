@@ -1,5 +1,8 @@
-<h1 align="center">
+<!-- markdownlint-disable -->
+<p align="center">
   <img src="../Assets/vscode.svg">
-  <br />
-    install vscode
-</h1>
+</p>
+
+
+1. ubuntu install
+  - Download and install the `.deb` package for VS Code **[here](https://code.visualstudio.com/)**
