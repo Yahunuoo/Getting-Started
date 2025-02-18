@@ -1,4 +1,4 @@
-# ![install - 2025](../Getting-Started/Assets/images/home-heders.png)
+# ![install - 2025](./Assets/images/home-heders.png)
 
 ## Prerequisites
 
