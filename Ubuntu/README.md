@@ -66,13 +66,15 @@ This should print **`/usr/bin/zsh`**
 
 ## step 3
 
+[Configuring & Generate access token GitHub](../GitHub/Ubuntu-Configuring-GitHub.md)
+
+## step 4
+
 >**Oh My Zsh**
 
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
-
-**if `Error: git is not installed`them [install git her](../GitHub/Ubuntu-Configuring-GitHub.md)**
 
 >[!NOTE]
 > 📌 ***Note that your prompt has now changed to simply be `~` This is the desired outcome***
@@ -80,10 +82,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ![oh my zsh!](../Assets/Oh-My-Zsh.png)
 
 > ***end the session `and` go to next step***
-
-## step 4
-
-[Configuring & Generate access token GitHub](../GitHub/Ubuntu-Configuring-GitHub.md)
 
 ## step 5
 
