@@ -10,11 +10,12 @@
     - [**optional** - Additional extensions](../VSCode/Ubuntu-Configuring-VSCode.md)
 
 2. [updating ubuntu](./README.md#updating-ubuntu)
-    - Updating and upgrading 
-        - ```bash
-        sudo apt update && sudo apt upgrade
-        ```
 
+>**Updating and upgrading packages**
+
+```bash
+sudo apt update && sudo apt upgrade
+```
 
 ![!Updating](../Assets/Updating.png)
 
