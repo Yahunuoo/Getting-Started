@@ -5,9 +5,9 @@
 </h1>
 
 1. [vscode](./README.md#vscode)
-    - [install VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
-    - [Configuring VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
-    - [**optional** - Additional extensions](../VSCode/Ubuntu-Configuring-VSCode.md)
+    * [install VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
+    * [Configuring VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
+    * [**optional** - Additional extensions](../VSCode/Ubuntu-Configuring-VSCode.md)
 
 2. [updating ubuntu](./README.md#updating-ubuntu)
 
