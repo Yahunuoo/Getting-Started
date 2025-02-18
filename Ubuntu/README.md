@@ -69,11 +69,9 @@ This should print **`/usr/bin/zsh`**
 
 ![zsh in action!](../Assets/terminal-3.png)
 
-## step 3
+3. [Configuring & Generate access token GitHub](../GitHub/Ubuntu-Configuring-GitHub.md)
 
-[Configuring & Generate access token GitHub](../GitHub/Ubuntu-Configuring-GitHub.md)
-
-## step 4
+4. [Configuring & Generate access token GitHub](../GitHub/Ubuntu-Configuring-GitHub.md)
 
 >**Oh My Zsh**
 
