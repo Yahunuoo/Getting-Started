@@ -1,3 +1,5 @@
+# Configuring VSCode
+
 # Ubuntu configuring vscode
 
 ## Visual Studio Code
