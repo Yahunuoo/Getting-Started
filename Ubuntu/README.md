@@ -4,18 +4,20 @@
     Configuring a development environment Ubuntu
 </h1>
 
-1. [VSCode](./README.md#VSCode)
-    - [install VSCode](../VSCode/Ubuntu-Configuring-VSCode.md#step-noo)
+1. [vscode](./README.md#vscode)
+    - [install VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
     - [Configuring VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
     - [**optional** - Additional extensions](../VSCode/Ubuntu-Configuring-VSCode.md)
 
-## step 2
+2. [updating ubuntu](./README.md#updating-ubuntu)
+    - >**Updating and upgrading packages**
+    - ```bash
+        sudo apt update && sudo apt upgrade
+    ```
 
->**Updating and upgrading packages**
 
-```bash
-sudo apt update && sudo apt upgrade
-```
+
+
 
 ![!Updating](../Assets/Updating.png)
 
