@@ -1,4 +1,8 @@
-# Configuring a development environment to Ubuntu
+<h1 align="center">
+ <img src="../Assets/ubuntu-image.png">
+  <br />
+  Configuring a development environment to Ubuntu
+</h1>
 
 ## step 1
 
