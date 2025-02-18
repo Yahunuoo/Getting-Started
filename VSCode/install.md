@@ -20,12 +20,8 @@
 
 
 
-3. Download for windows 11 operating system
+3. [Download for windows 11 operating system](./install.md)
     - Download and install the package for VS Code **[here](https://code.visualstudio.com/)**
-
-
-
-
 
 
 
