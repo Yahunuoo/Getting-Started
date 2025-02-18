@@ -11,13 +11,9 @@
 
 2. [updating ubuntu](./README.md#updating-ubuntu)
     - >**Updating and upgrading packages**
-    - ```bash
+        - ```bash
         sudo apt update && sudo apt upgrade
-    ```
-
-
-
-
+        ```
 
 ![!Updating](../Assets/Updating.png)
 
