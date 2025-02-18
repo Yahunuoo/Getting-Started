@@ -72,7 +72,8 @@ This should print **`/usr/bin/zsh`**
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
->**`if see the Error: git is not installed` [install git her](../GitHub/Ubuntu-Configuring-GitHub.md)**
+**if `Error: git is not installed`them [install git her](../GitHub/Ubuntu-Configuring-GitHub.md)**
+
 >[!NOTE]
 > 📌 ***Note that your prompt has now changed to simply be `~` This is the desired outcome***
 
