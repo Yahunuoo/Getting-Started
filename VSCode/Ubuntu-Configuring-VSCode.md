@@ -2,7 +2,9 @@
 
 ## Visual Studio Code
 
+## step 3
 
+- Download and install the `.deb` package for VS Code **[here](https://code.visualstudio.com/)**
 
 >[if nedd, more help with instalation](https://code.visualstudio.com/docs/setup/linux)
 
@@ -14,26 +16,3 @@
 ![vscode auto save](../Assets/vscode-auto-save.png)
 
 ***end the session py [return](../Ubuntu/README.md) for next step***
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## step noo
-
-- Download and install the `.deb` package for VS Code **[here](https://code.visualstudio.com/)**
