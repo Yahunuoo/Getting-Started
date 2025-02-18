@@ -10,7 +10,7 @@
 
 ***preparing and configuring a workstation and development environment for programming to operating system***
 
-- [Windows 10](./Windows)
-- [Windows 11](./Window)
+- [Windows 10](./Windows-10)
+- [Windows 11](./Window-11)
 - [Ubuntu](./Ubuntu)
 - [Mac](./Mac)
