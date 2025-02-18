@@ -195,7 +195,7 @@
 
 
 
-4. [Download for mac operating system](./#)
+4. [Download for mac operating system](#Download-for-mac-operating-system)
     - Download and install the package for VS Code **[here](https://code.visualstudio.com/)**
 
 
