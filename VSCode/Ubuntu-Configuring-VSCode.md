@@ -6,6 +6,8 @@
 
 - Download and install the `.deb` package for VS Code **[here](https://code.visualstudio.com/)**
 
+>[if nedd, more help with instalation](https://code.visualstudio.com/docs/setup/linux)
+
 - [Additional vsCode extensions](../VSCode/README.md)
 
 >[!NOTE]
