@@ -4,7 +4,7 @@
 
 ***Things that help with programming***
 
->📌 [Resources](../Getting-Started/Assets/things/Resources.md)
+>📌 [Resources](./Getting-Started/Assets/things/Resources.md)
 
 ***Quick access to the most commonly used command line***
 
