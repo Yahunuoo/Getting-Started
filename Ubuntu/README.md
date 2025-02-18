@@ -1,6 +1,8 @@
-<p align="center">
+<h1 align="center">
   <img src="../Assets/ubuntu-image.png">
-</p>
+  <br />
+    Configuring a development environment Ubuntu
+</h1>
 
 1. [VSCode](./README.md#VSCode)
     - [install VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
