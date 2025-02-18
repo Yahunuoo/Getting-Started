@@ -2,8 +2,8 @@
 
 >Tools to dawnload
 
-- [test your sites for multiple devices](https://responsively.app/)
-- [platform for API development](https://www.postman.com/)
+- [Front-End test your sites for multiple devices](https://responsively.app/)
+- [postman platform for API development](https://www.postman.com/)
 
 >Online Tools
 
