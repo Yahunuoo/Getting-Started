@@ -3,6 +3,7 @@
 ## step 1
 
 [install & Configuring VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
+>[if nedd, more help with instalation](https://code.visualstudio.com/docs/setup/linux)
 
 ## step 2
 
