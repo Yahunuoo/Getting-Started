@@ -12,5 +12,5 @@
 
 - [Windows 10](./Windows-10)
 - [Windows 11](./Windows-11)
-- [Ubuntu](./Ubuntu)
+- [Ubuntu](./Ubuntu/home.md)
 - [Mac](./Mac/README.md)
