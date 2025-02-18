@@ -7,15 +7,6 @@
     - [Configuring VSCode](../VSCode/Ubuntu-Configuring-VSCode.md)
     - [`optional`Additional extensions](../VSCode/Ubuntu-Configuring-VSCode.md)
 
-
-
-
-
-
-
-## step 1
-
-
 ## step 2
 
 >**Updating and upgrading packages**
