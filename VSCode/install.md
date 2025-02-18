@@ -20,6 +20,12 @@
 
 
 
+
+
+  <img src="../Assets/windows-11.jpg">
+
+
+
 3. Download for windows 11 operating system
     - Download and install the package for VS Code **[here](https://code.visualstudio.com/)**
 
