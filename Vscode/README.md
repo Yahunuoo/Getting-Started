@@ -7,4 +7,4 @@
 ## Choose Operating System to install vscode
 
 * [Windows](#choose-operating-system-to-install-vscode)
-* [Ubuntu](ubuntu-vscode.md)
+* [Ubuntu](install-ubuntu-vscode.md)
