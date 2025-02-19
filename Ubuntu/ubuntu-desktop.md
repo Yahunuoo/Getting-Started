@@ -17,7 +17,7 @@ sudo apt update && sudo apt upgrade
 
 > 📌 ***open vscod and turn on `Auto Save` setting, is in the File menu***
 
-## [install git](/Ubuntu/README.md)
+## [install git](ubuntu-desktop.md)
 
 access to the most recent stable version of Git with this command
 
