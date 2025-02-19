@@ -10,7 +10,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 
 >ompleted installation of nvm
 
-![!ompleted installation of nvm](../Assets/completed-installation-of-nvm.png)
+![!ompleted installation of nvm](/Assets/images/completed-installation-of-nvm.png)
 
 Restart the Terminal application now.
 
