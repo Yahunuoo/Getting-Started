@@ -10,7 +10,7 @@
 * [VScode](/Vscode/README.md)
 * [Github](/Github/README.md)
 
-## Preparing and configuring a workstation and development environment
+## Preparing and configuring a workstation
 
 * [Windows](./Windows)
 * [Ubuntu](./Ubuntu)
@@ -18,4 +18,4 @@
 
 ## Preparing and configuring a programming language environment
 
-* [JavaScript](/../JavaScript/README.md)
+* [JavaScript](.././JavaScript/README.md)
