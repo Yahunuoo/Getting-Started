@@ -7,7 +7,27 @@
 1. [Download and install the `.deb` package for VS Code](https://code.visualstudio.com/)
 2. [Additional extensions](Extensions.md)
 
-> 📌 ***turn on `Auto Save` setting, is in the File menu***
+> 📌 ***open vscod and turn on `Auto Save` setting, is in the File menu***
+
+## [install git](/Ubuntu/README.md)
+
+access to the most recent stable version of Git with this command
+
+```sh
+  sudo add-apt-repository ppa:git-core/ppa
+```
+
+next
+
+```sh
+sudo apt-get update
+```
+
+next
+
+```sh
+sudo apt-get install git
+```
 
 ## [updating ubuntu](ubuntu-desktop.md)
 
