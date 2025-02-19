@@ -1,6 +1,10 @@
 # ![install - 2025](/Assets/images/vscode.png)
 
-## install vscode
+## Resources
 
-* [Download and install the `.deb` package for VS Code](https://code.visualstudio.com/)**
-* [**optional** Additional extensions](../VSCode/Extensions.md)
+* [Additional extensions](Extensions.md)
+
+## Choose Operating System to install vscode
+
+* [Windows](#choose-operating-system-to-install-vscode)
+* [Ubuntu](ubuntu-vscode.md)
