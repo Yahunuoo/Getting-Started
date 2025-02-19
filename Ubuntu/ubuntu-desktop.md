@@ -35,7 +35,7 @@ next
 sudo apt-get install git
 ```
 
-## [updating ubuntu](ubuntu-desktop.md)
+## [again updating ubuntu](ubuntu-desktop.md)
 
 ```bash
 sudo apt update && sudo apt upgrade
