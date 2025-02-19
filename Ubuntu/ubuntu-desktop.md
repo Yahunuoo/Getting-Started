@@ -14,8 +14,6 @@
 sudo apt update && sudo apt upgrade
 ```
 
-![!Updating](../Assets/Updating.png)
-
 >**curl**
 
 Since you already have the terminal open, take the opportunity to install curl, which will let you install applications with just a URL, as you'll see us do soon. Use this command:
@@ -48,7 +46,7 @@ End your terminal session by closing the terminal window. Log out of your accoun
 
 Open a new terminal window. As shown below, you should be prompted to run a configuration setup for new users:
 
-![The terminal after installing `zsh`.](../Assets/terminal.png)
+![The terminal after installing `zsh`.](/Assets/images/terminal-u.png)
 
 Enter `2` to accept the default configuration.
 
