@@ -15,3 +15,7 @@
 * [Windows](./Windows)
 * [Ubuntu](./Ubuntu)
 * [Mac](./Mac)
+
+## Preparing and configuring a programming language environment
+
+* [JavaScript](/../JavaScript/README.md)
