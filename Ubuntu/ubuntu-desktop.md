@@ -8,7 +8,7 @@
 2. [Additional extensions](Extensions.md)
 3. > 📌 ***turn on `Auto Save` setting, is in the File menu***
 
-## [updating ubuntu](./README.md#updating-ubuntu)
+## [updating ubuntu](ubuntu-desktop.md)
 
 ```bash
 sudo apt update && sudo apt upgrade
