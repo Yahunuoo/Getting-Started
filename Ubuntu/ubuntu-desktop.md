@@ -108,7 +108,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ## [create directory workspace](ubuntu-desktop.md)
 
-Create a file that will represent the workspace, for example, with the name workstation or any name
+Create a directory that will represent the workspace, for example, with the name workstation or any name
 
 ```sh
 mkdir workstation
