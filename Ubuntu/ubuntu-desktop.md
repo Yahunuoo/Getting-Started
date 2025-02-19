@@ -106,6 +106,14 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ## [Configuring:](ubuntu-desktop.md)
 
+## [create directory workspace](ubuntu-desktop.md)
+
+Create a file that will represent the workspace, for example, with the name workstation or any name
+
+```sh
+mkdir workstation
+```
+
 ## step 5
 
 [Configuring a .gitignore global file](../Assets/gitignore_global.md)
