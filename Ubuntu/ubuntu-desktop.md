@@ -2,7 +2,7 @@
 
 ## Configuring a development environment Ubuntu desktop
 
-## install vscode
+## [install vscode](ubuntu-desktop.md)
 
 1. [Download and install the `.deb` package for VS Code](https://code.visualstudio.com/)
 2. [Additional extensions](Extensions.md)
