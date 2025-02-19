@@ -18,4 +18,4 @@
 
 ## Preparing and configuring a programming language environment
 
-* [JavaScript](/../JavaScript/README.md)
+* [JavaScript](/Assets/things/javascript-environment.md)
