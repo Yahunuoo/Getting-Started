@@ -1,4 +1,4 @@
-# ![install - 2025](./)
+# ![install - 2025](/Assets/images/ubuntu-desktop.png)
 
 ## Configuring a development environment Ubuntu desktop
 
