@@ -6,7 +6,8 @@
 
 1. [Download and install the `.deb` package for VS Code](https://code.visualstudio.com/)
 2. [Additional extensions](Extensions.md)
-3. > 📌 ***turn on `Auto Save` setting, is in the File menu***
+
+> 📌 ***turn on `Auto Save` setting, is in the File menu***
 
 ## [updating ubuntu](ubuntu-desktop.md)
 
