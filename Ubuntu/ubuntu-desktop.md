@@ -91,10 +91,6 @@ This should print **`/usr/bin/zsh`**
 
 ![zsh in action!](/Assets/images/terminal-3.png)
 
-3.[Configuring & Generate access token GitHub](../GitHub/Ubuntu-Configuring-GitHub.md)
-
-4.[Configuring & Generate access token GitHub](../GitHub/Ubuntu-Configuring-GitHub.md)
-
 ## install Oh My Zsh**
 
 ```bash
