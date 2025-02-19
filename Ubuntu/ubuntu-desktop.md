@@ -100,7 +100,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 >[!NOTE]
 > 📌 ***Note that your prompt has now changed to simply be `~` This is the desired outcome***
 
-![oh my zsh!](../Assets/Oh-My-Zsh.png)
+![oh my zsh!](/Assets/images/Oh-My-Zsh.png)
 
 > ***end the session `and` go to next step***
 
