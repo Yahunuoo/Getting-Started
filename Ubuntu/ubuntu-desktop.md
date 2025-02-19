@@ -6,4 +6,4 @@
 
 1. [Download and install the `.deb` package for VS Code](https://code.visualstudio.com/)
 
-2. [**optional** Additional extensions](Extensions.md)
+2. [`optional`Additional extensions](Extensions.md)
