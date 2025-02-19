@@ -2,6 +2,12 @@
 
 ## Configuring a development environment Ubuntu desktop
 
+## [frist updating ubuntu](ubuntu-desktop.md)
+
+```bash
+sudo apt update && sudo apt upgrade
+```
+
 ## [install vscode](ubuntu-desktop.md)
 
 1. [Download and install the `.deb` package for VS Code](https://code.visualstudio.com/)
@@ -89,7 +95,7 @@ This should print **`/usr/bin/zsh`**
 
 4.[Configuring & Generate access token GitHub](../GitHub/Ubuntu-Configuring-GitHub.md)
 
-## install Oh My Zsh
+## install Oh My Zsh**
 
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
