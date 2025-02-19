@@ -114,6 +114,33 @@ Create a directory that will represent the workspace, for example, with the name
 mkdir workstation
 ```
 
+## [Git config](ubuntu-desktop.md)
+
+```bash
+git config --global user.name "User Name"
+```
+
+```bash
+git config --global user.email "user@email.com"
+```
+
+```bash
+git config --global init.defaultBranch main
+```
+
+```bash
+git config --global core.editor "code --wait"
+```
+
+```bash
+echo "export GIT_MERGE_AUTOEDIT=no" >> ~/.zshrc
+```
+
+```bash
+git config --global pull.rebase false
+```
+
+<!--
 ## step 5
 
 [Configuring a .gitignore global file](../Assets/gitignore_global.md)
@@ -124,3 +151,4 @@ mkdir workstation
 
 >[!NOTE]
 > 📌 ***setup to start developing in ubuntu has done***
+-->
