@@ -2,6 +2,8 @@
 
 ## Configuring a development environment Ubuntu desktop
 
+## **install**
+
 ## [the bgining updating ubuntu](ubuntu-desktop.md)
 
 ```bash
@@ -102,7 +104,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ![oh my zsh!](/Assets/images/Oh-My-Zsh.png)
 
-> ***end the session `and` go to next step***
+## **Configuring**
 
 ## step 5
 
