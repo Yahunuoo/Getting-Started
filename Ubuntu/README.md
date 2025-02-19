@@ -2,5 +2,5 @@
 
 ## Configuring a development environment Ubuntu
 
-* [Ubuntu desktops](./Windows)
-* [Ubuntu Server](./Windows)
+* [Ubuntu desktops](./ubuntu-desktop.md)
+* [Ubuntu Server](./ubuntu-server.md)
