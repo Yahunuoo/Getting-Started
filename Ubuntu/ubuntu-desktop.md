@@ -2,7 +2,7 @@
 
 ## Configuring a development environment Ubuntu desktop
 
-## **install:**
+## [install:](ubuntu-desktop.md)
 
 ## [the bgining updating ubuntu](ubuntu-desktop.md)
 
@@ -43,7 +43,7 @@ sudo apt-get install git
 sudo apt update && sudo apt upgrade
 ```
 
-## install curl
+## [install curl](ubuntu-desktop.md)
 
 Since you already have the terminal open, take the opportunity to install curl, which will let you install applications with just a URL, as you'll see us do soon. Use this command:
 
@@ -51,7 +51,7 @@ Since you already have the terminal open, take the opportunity to install curl, 
 sudo apt install curl
 ```
 
-## install Zsh
+## [install Zsh](ubuntu-desktop.md)
 
 Bash is Ubuntu's default shell (command interpreter), but Z shell is more commonly used in modern systems by default, so that's what we will use. Install it with this command, and accept the changes to be made by entering **`Y`** when prompted to continue:
 
@@ -93,7 +93,7 @@ This should print **`/usr/bin/zsh`**
 
 ![zsh in action!](/Assets/images/terminal-3.png)
 
-## install Oh My Zsh**
+## [install Oh My](ubuntu-desktop.md)
 
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -104,7 +104,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ![oh my zsh!](/Assets/images/Oh-My-Zsh.png)
 
-## **Configuring:**
+## [Configuring:](ubuntu-desktop.md)
 
 ## step 5
 
