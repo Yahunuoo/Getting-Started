@@ -18,7 +18,6 @@
 
 ## Preparing and configuring a programming language environment
 
-1. [JavaScript](/Assets/things/javascript-environment.md)
+1. [JavaScript](#install---2025)
    - [ubuntu](/Assets/things/javascript-environment.md#configuring-ubuntu)
 
-   
