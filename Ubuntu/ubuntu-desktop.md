@@ -2,7 +2,7 @@
 
 ## Configuring a development environment Ubuntu desktop
 
-## [frist updating ubuntu](ubuntu-desktop.md)
+## [the bgining updating ubuntu](ubuntu-desktop.md)
 
 ```bash
 sudo apt update && sudo apt upgrade
