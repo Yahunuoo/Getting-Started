@@ -52,7 +52,7 @@ Enter `2` to accept the default configuration.
 
 Your terminal prompt should look a little different now!
 
-![zsh in action!](../Assets/terminal-2.png)
+![zsh in action!](/Assets/images/terminal-2.png)
 
 Let's confirm it worked with this command:
 
@@ -62,7 +62,7 @@ echo $SHELL
 
 This should print **`/usr/bin/zsh`**
 
-![zsh in action!](../Assets/terminal-3.png)
+![zsh in action!](/Assets/images/terminal-3.png)
 
 3. [Configuring & Generate access token GitHub](../GitHub/Ubuntu-Configuring-GitHub.md)
 
