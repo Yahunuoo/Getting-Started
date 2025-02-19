@@ -1,4 +1,4 @@
-# Configuring JavaScript environment
+# Configuring set up environment its JavaScript
 
 ## Configuring ubuntu
 
