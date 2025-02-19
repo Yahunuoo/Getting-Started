@@ -14,7 +14,7 @@
 access to the most recent stable version of Git with this command
 
 ```sh
-  sudo add-apt-repository ppa:git-core/ppa
+sudo add-apt-repository ppa:git-core/ppa
 ```
 
 next
