@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- [Command Line Usage](#command-line-usage)
-- [GitHub Docs](#command-line-usage)
+- [Command Line Usage](#most-command-line-usage)
+- [GitHub Docs](https://docs.github.com/en)
 
+## most Command Line Usage
 
-## Command Line Usage
 To use GitHub from the command line, you can use the following commands:
 
 ```sh
