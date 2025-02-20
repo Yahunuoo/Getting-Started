@@ -1,3 +1,3 @@
-# ![github](/Assets/images/github-mark.svg)
+# ![github](/Assets/images/github-mark.png)
 
 ## Table of Contents
