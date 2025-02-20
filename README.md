@@ -19,10 +19,10 @@
 ## Preparing and configuring a programming language environment
 
 1. [JavaScript](#JavaScript)
-   - [Windows](#JavaScript)
+   - [Windows](#windows)
       * [windows 10]()  
       * [windows 11]()
    - [Ubuntu](#JavaScript)
       * [Ubuntu desktop](/Assets/things/javascript-environment.md#configuring-ubuntu-desktop)  
       * [Ubuntu server]()            
-   - [Mac]()
+   - [Mac](#mac)
