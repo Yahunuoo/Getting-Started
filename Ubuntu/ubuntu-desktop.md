@@ -18,7 +18,7 @@
 
 ## [install:](ubuntu-desktop.md)
 
-## [the bgining updating ubuntu](ubuntu-desktop.md)
+## the bgining updating ubuntu
 
 ```bash
 sudo apt update && sudo apt upgrade
