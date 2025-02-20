@@ -4,32 +4,38 @@
 
 ## Table of Contents
 
-- [Updating Ubuntu](#the-bgining-updating-ubuntu)
-- [Installing VS Code](#install-vscode)
-- [Installing Git](#install-git)
-- [Updating Ubuntu Again](#again-updating-ubuntu)
-- [Installing Curl](#install-curl)
-- [Installing Zsh](#install-zsh)
-- [Installing Oh My Zsh](#install-oh-my)
-- [Creating Workspace Directory](#create-directory-workspace)
-- [Git Configuration](#git-config)
-- [Generating Git Access Token](#generate-git-access-token)
-- [Creating Global .gitignore File](#create-a-gitignore-global-file-in-the-user-directory)
+- [Introduction](#configuring-a-development-environment-ubuntu-desktop)
+- [Install](#a-install)
+    - [Updating Ubuntu](#1-the-bgining-updating-ubuntu)
+    - [Install VS Code](#2-install-vscode)
+    - [Install Git](#3-install-git)
+    - [Updating Ubuntu Again](#4-again-updating-ubuntu)
+    - [Install Curl](#5-install-curl)
+    - [Install Zsh](#6-install-zsh)
+    - [Install Oh My Zsh](#7-install-oh-my)
+    
+- [Configuring](#b-configuring)
+    - [Create Directory Workspace](#1-create-directory-workspace)
+    - [Git Config](#2-git-config)
+    - [Generate Git Access Token](#3-generate-git-access-token)
+    - [Create a .gitignore Global File](#4-create-a-gitignore-global-file-in-the-user-directory)
 
-## 1.the bgining updating ubuntu
+## A. install:
+
+## 1. the bgining updating ubuntu
 
 ```bash
 sudo apt update && sudo apt upgrade
 ```
 
-## install vscode
+## 2. install vscode
 
 1. [Download and install the `.deb` package for VS Code](https://code.visualstudio.com/)
 2. [Additional extensions](/Assets/things/vscode.md#vscode-extensions)
 
 > 📌 ***open vscod and turn on `Auto Save` setting, is in the File menu***
 
-## [install git](ubuntu-desktop.md)
+## 3. install git
 
 access to the most recent stable version of Git with this command
 
@@ -49,13 +55,13 @@ next
 sudo apt-get install git
 ```
 
-## [again updating ubuntu](ubuntu-desktop.md)
+## 4. again updating ubuntu
 
 ```bash
 sudo apt update && sudo apt upgrade
 ```
 
-## [install curl](ubuntu-desktop.md)
+## 5. install curl
 
 Since you already have the terminal open, take the opportunity to install curl, which will let you install applications with just a URL, as you'll see us do soon. Use this command:
 
@@ -63,7 +69,7 @@ Since you already have the terminal open, take the opportunity to install curl, 
 sudo apt install curl
 ```
 
-## [install Zsh](ubuntu-desktop.md)
+## 6. install Zsh
 
 Bash is Ubuntu's default shell (command interpreter), but Z shell is more commonly used in modern systems by default, so that's what we will use. Install it with this command, and accept the changes to be made by entering **`Y`** when prompted to continue:
 
@@ -105,7 +111,7 @@ This should print **`/usr/bin/zsh`**
 
 ![zsh in action!](/Assets/images/terminal-3.png)
 
-## [install Oh My](ubuntu-desktop.md)
+## 7. install Oh My
 
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -116,9 +122,9 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ![oh my zsh!](/Assets/images/Oh-My-Zsh.png)
 
-## [Configuring:](ubuntu-desktop.md)
+## B. Configuring:
 
-## [create directory workspace](ubuntu-desktop.md)
+## 1. create directory workspace
 
 Create a directory that will represent the workspace, for example, with the name workstation or any name
 
@@ -126,7 +132,7 @@ Create a directory that will represent the workspace, for example, with the name
 mkdir workstation
 ```
 
-## [Git config](ubuntu-desktop.md)
+## 2. Git config
 
 ```bash
 git config --global user.name "User Name"
@@ -152,7 +158,7 @@ echo "export GIT_MERGE_AUTOEDIT=no" >> ~/.zshrc
 git config --global pull.rebase false
 ```
 
-## [Generate git access token](ubuntu-desktop.md)
+## 3. Generate git access token
 
 >[Click here github generate access codes](https://github.com/settings/tokens)
 
@@ -174,7 +180,7 @@ Using multiple machines? It is best practice to create a new token for each devi
 
 Place the token in a secure place! The next time you interact with GitHub on the command line, you will be asked to provide a username and password. Use this token in place of a password.
 
-## [create a .gitignore global file in the user directory](ubuntu-desktop.md)
+## 4. create a .gitignore global file in the user directory
 
 create a .gitignore_global
 
