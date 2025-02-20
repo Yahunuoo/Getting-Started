@@ -3,8 +3,8 @@
 ## Table of Contents
 
 * Ubuntu [desktop](#configuring-ubuntu-desktop) | [server](#configuring-ubuntu-server)
-* Windows [10](#configuring-ubuntu-desktop) | [11](#configuring-ubuntu-server)
-* Apple [Mac](#configuring-ubuntu-desktop)
+* Windows [10](#configuring-windows-10) | [11](#configuring-windows-11)
+* Apple [Mac](#configuring-mac)
 
 ## Configuring ubuntu desktop
 
