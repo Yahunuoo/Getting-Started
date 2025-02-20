@@ -7,6 +7,4 @@
 
 ## Preparing and configuring a programming language environment
 
-1. [JavaScript](#JavaScript)
-    * [Ubuntu desktop](/Assets/things/javascript-environment.md#configuring-ubuntu-desktop)  
-    * [Ubuntu server](/Assets/things/javascript-environment.md#configuring-ubuntu-server)            
+1. [JavaScript](/Assets/things/ubuntu-javascript-environment.md#configuring-the-javascript-setup-environment-for-ubuntu)
