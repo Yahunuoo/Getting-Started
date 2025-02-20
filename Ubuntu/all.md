@@ -2,6 +2,19 @@
 
 ## Configuring a development environment Ubuntu
 
+## Table of Contents
+
+- [Updating Ubuntu](#the-bgining-updating-ubuntu)
+- [Install VS Code](#install-vscode)
+- [Install Git](#install-git)
+- [Install Curl](#install-curl)
+- [Install Zsh](#install-zsh)
+- [Install Oh My Zsh](#install-oh-my)
+- [Create Directory Workspace](#create-directory-workspace)
+- [Git Config](#git-config)
+- [Generate Git Access Token](#generate-git-access-token)
+- [Create a .gitignore Global File](#create-a-gitignore-global-file-in-the-user-directory)
+
 ## ubuntu desktop Configuring
 
 ## [the bgining updating ubuntu](ubuntu-desktop.md)
