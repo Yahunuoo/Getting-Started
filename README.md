@@ -20,5 +20,5 @@
 
 1. [JavaScript](#JavaScript)
    - [Windows](#windows)
-   - [Ubuntu](/Assets/things/ubuntu-javascript-environment.md#configuring-set-up-environment-its-javascript)
+   - [Ubuntu](/Assets/things/ubuntu-javascript-environment.md#configuring-the-javascript-setup-environment-for-ubuntu)
    - [Mac](#mac)

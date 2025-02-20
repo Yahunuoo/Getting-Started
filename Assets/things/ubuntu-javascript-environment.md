@@ -1,4 +1,4 @@
-# Configuring set up environment its JavaScript
+# Configuring the JavaScript Setup Environment for Ubuntu
 
 * [Ubuntu desktop](#configuring-ubuntu-desktop) | [Ubuntu server](#configuring-ubuntu-server)  
 
