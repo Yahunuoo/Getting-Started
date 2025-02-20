@@ -1,6 +1,10 @@
-# Configuring the JavaScript Setup Environment for Ubuntu
+# Configuring the JavaScript Setup Environment
 
-* [Ubuntu desktop](#configuring-ubuntu-desktop) | [Ubuntu server](#configuring-ubuntu-server)  
+## Table of Contents
+
+* Ubuntu [desktop](#configuring-ubuntu-desktop) | [server](#configuring-ubuntu-server)
+* Windows [10](#configuring-ubuntu-desktop) | [11](#configuring-ubuntu-server)
+* Apple [Mac](#configuring-ubuntu-desktop)
 
 ## Configuring ubuntu desktop
 
@@ -73,3 +77,10 @@ npm i -g nodemon
 ```
 
 ## Configuring ubuntu server
+
+## Configuring windows 10
+
+## Configuring windows 11
+
+## Configuring mac
+

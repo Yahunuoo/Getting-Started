@@ -18,7 +18,4 @@
 
 ## Preparing and configuring a programming language environment
 
-1. [JavaScript](#JavaScript)
-   - [Windows](#windows)
-   - [Ubuntu](/Programming-Language-Environment/javascript/ubuntu-javascript-environment.md#configuring-the-javascript-setup-environment-for-ubuntu)
-   - [Mac](#mac)
+1. [JavaScript](/Programming-Language-Environment/javascript/javascript-environment.md#configuring-the-javascript-setup-environment)
