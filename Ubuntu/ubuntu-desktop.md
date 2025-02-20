@@ -16,7 +16,7 @@
 - [Generating Git Access Token](#generate-git-access-token)
 - [Creating Global .gitignore File](#create-a-gitignore-global-file-in-the-user-directory)
 
-1. ## the bgining updating ubuntu
+## 1.the bgining updating ubuntu
 
 ```bash
 sudo apt update && sudo apt upgrade
