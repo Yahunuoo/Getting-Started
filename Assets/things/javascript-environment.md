@@ -69,3 +69,5 @@ With Node.js installed, install nodemon globally with this command:
 ```bash
 npm i -g nodemon
 ```
+
+## Configuring ubuntu server

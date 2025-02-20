@@ -24,5 +24,5 @@
       * [windows 11]()
    - [Ubuntu](#JavaScript)
       * [Ubuntu desktop](/Assets/things/javascript-environment.md#configuring-ubuntu-desktop)  
-      * [Ubuntu server]()            
+      * [Ubuntu server](/Assets/things/javascript-environment.md#configuring-ubuntu-server)            
    - [Mac](#mac)
