@@ -1,6 +1,6 @@
 # ![github](/Assets/images/github.png)
 
-## Table of 
+## Table of Contents
 
 - [Command Line Usage](#command-line-usage)
 - [GitHub Docs](#command-line-usage)
