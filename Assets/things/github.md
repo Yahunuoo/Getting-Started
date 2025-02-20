@@ -1,3 +1,3 @@
-# ![github](/Assets/images/github-1.png)
+# ![github](/Assets/images/github.png)
 
 ## Table of Contents
