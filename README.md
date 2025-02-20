@@ -8,7 +8,7 @@
 ## Preparing and configuring a workstation
 
 * [Windows](./Windows)
-* [Ubuntu](/Ubuntu/all.md#configuring-a-development-environment-ubuntu)
+* [Ubuntu](/Ubuntu/README.md#configuring-a-development-environment-ubuntu----2025)
 * [Mac](./Mac)
 
 ## Fundamental tools
