@@ -1,7 +1,10 @@
 # ![github](/Assets/images/github.png)
 
-## Table of Contents
+## Table of 
+
 - [Command Line Usage](#command-line-usage)
+- [GitHub Docs](#command-line-usage)
+
 
 ## Command Line Usage
 To use GitHub from the command line, you can use the following commands:
