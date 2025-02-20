@@ -13,7 +13,7 @@ sudo apt update && sudo apt upgrade
 ## [install vscode](ubuntu-desktop.md)
 
 1. [Download and install the `.deb` package for VS Code](https://code.visualstudio.com/)
-2. [Additional extensions](Extensions.md)
+2. [Additional extensions](/Assets/things/vscode.md#vscode-extensions)
 
 > 📌 ***open vscod and turn on `Auto Save` setting, is in the File menu***
 
