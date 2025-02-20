@@ -4,7 +4,6 @@
 
 ## Table of Contents
 
-- [Introduction](#configuring-a-development-environment-ubuntu-desktop)
 - [Install](#a-install)
     - [Updating Ubuntu](#1-the-bgining-updating-ubuntu)
     - [Install VS Code](#2-install-vscode)
@@ -13,7 +12,7 @@
     - [Install Curl](#5-install-curl)
     - [Install Zsh](#6-install-zsh)
     - [Install Oh My Zsh](#7-install-oh-my)
-    
+
 - [Configuring](#b-configuring)
     - [Create Directory Workspace](#1-create-directory-workspace)
     - [Git Config](#2-git-config)
