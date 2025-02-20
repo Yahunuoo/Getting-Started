@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Command Line Usage](#most-command-line-usage)
+- [most Command Line Usage](#most-command-line-usage)
 - [GitHub Docs](https://docs.github.com/en)
 
 ## most Command Line Usage
