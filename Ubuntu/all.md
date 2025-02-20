@@ -2,6 +2,10 @@
 
 ## Configuring a development environment Ubuntu
 
+* Ubuntu [desktop](#ubuntu-desktop-configuring) | [server](#ubuntu-server-configuring)
+
+## ubuntu desktop Configuring
+
 ## Table of Contents
 
 - [Updating Ubuntu](#the-bgining-updating-ubuntu)
@@ -14,8 +18,6 @@
 - [Git Config](#git-config)
 - [Generate Git Access Token](#generate-git-access-token)
 - [Create a .gitignore Global File](#create-a-gitignore-global-file-in-the-user-directory)
-
-## ubuntu desktop Configuring
 
 ## [the bgining updating ubuntu](ubuntu-desktop.md)
 
