@@ -58,3 +58,26 @@ git stash
 # Apply stashed changes
 git stash apply
 ```
+## GitHub Configuration
+
+Here are some commands to configure GitHub settings:
+
+```sh
+# Set your GitHub username
+git config --global user.name "Your Name"
+
+# Set your GitHub email
+git config --global user.email "your-email@example.com"
+
+# Set the default text editor for Git
+git config --global core.editor "code --wait"
+
+# Enable color in Git output
+git config --global color.ui true
+
+# Set the default merge tool
+git config --global merge.tool vimdiff
+
+# List all Git configurations
+git config --list
+```
