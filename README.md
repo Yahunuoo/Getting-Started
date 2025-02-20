@@ -18,4 +18,4 @@
 
 ## Preparing and configuring a programming language environment
 
-[Programming Language](/Programming-environment/README.md)
+* [Programming Language](/Programming-environment/README.md)
