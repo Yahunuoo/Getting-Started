@@ -20,9 +20,5 @@
 
 1. [JavaScript](#JavaScript)
    - [Windows](#windows)
-      * [windows 10]()  
-      * [windows 11]()
-   - [Ubuntu](#JavaScript)
-      * [Ubuntu desktop](/Assets/things/javascript-environment.md#configuring-ubuntu-desktop)  
-      * [Ubuntu server](/Assets/things/javascript-environment.md#configuring-ubuntu-server)            
+   - [Ubuntu](/Assets/things/ubuntu-javascript-environment.md#configuring-set-up-environment-its-javascript)
    - [Mac](#mac)

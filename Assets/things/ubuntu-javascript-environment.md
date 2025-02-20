@@ -1,5 +1,7 @@
 # Configuring set up environment its JavaScript
 
+* [Ubuntu desktop](#configuring-ubuntu-desktop) | * [Ubuntu server](#configuring-ubuntu-server)  
+
 ## Configuring ubuntu desktop
 
 >**1- install nvm**
