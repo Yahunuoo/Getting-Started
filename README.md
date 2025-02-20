@@ -4,12 +4,12 @@
 
 * [Resources](/Assets/things/Resources.md) Resources that help with programming
 * [Command line](/Assets/things/most-used-command-line.md) Quick access to the most commonly used command line
-<!--
+
 ## Basic tools
 
-* [VScode](/Vscode/README.md)
+* [VScode](/Assets/things/vscode.md#table-of-contents)
 * [Github](/Github/README.md)
--->
+
 ## Preparing and configuring a workstation
 
 * [Windows](./Windows)
