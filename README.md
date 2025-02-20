@@ -5,7 +5,7 @@
 * [Resources](/Assets/things/Resources.md) Resources that help with programming
 * [Command line](/Assets/things/most-used-command-line.md) Quick access to the most commonly used command line
 
-## Basic tools
+## Fundamental tools
 
 * [VScode](/Assets/things/vscode.md#table-of-contents)
 * [Github](/Assets/things/github.md#table-of-contents)
