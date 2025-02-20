@@ -16,15 +16,13 @@
 - [Generating Git Access Token](#generate-git-access-token)
 - [Creating Global .gitignore File](#create-a-gitignore-global-file-in-the-user-directory)
 
-## [install:](ubuntu-desktop.md)
-
-## the bgining updating ubuntu
+1. ## the bgining updating ubuntu
 
 ```bash
 sudo apt update && sudo apt upgrade
 ```
 
-## [install vscode](ubuntu-desktop.md)
+## install vscode
 
 1. [Download and install the `.deb` package for VS Code](https://code.visualstudio.com/)
 2. [Additional extensions](/Assets/things/vscode.md#vscode-extensions)
