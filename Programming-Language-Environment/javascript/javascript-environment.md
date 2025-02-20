@@ -83,4 +83,3 @@ npm i -g nodemon
 ## Configuring windows 11
 
 ## Configuring mac
-
