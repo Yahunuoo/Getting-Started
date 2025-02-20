@@ -2,7 +2,7 @@
 
 ## Configuring a workstation Ubuntu
 
-* [Ubuntu desktops](./ubuntu-desktop.md)
+* [Ubuntu desktops](./ubuntu-desktop.md#table-of-contents)
 * [Ubuntu Server](./ubuntu-server.md)
 
 ## Preparing and configuring a programming language environment
