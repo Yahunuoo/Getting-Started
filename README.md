@@ -8,7 +8,7 @@
 ## Basic tools
 
 * [VScode](/Assets/things/vscode.md#table-of-contents)
-* [Github](/Github/README.md)
+* [Github](/Assets/things/github.md#table-of-contents)
 
 ## Preparing and configuring a workstation
 
