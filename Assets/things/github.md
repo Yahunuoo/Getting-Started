@@ -1,7 +1,17 @@
 # ![github](/Assets/images/github.png)
 
 ## Table of Contents
-
+- [Additional Command Line Usage](#additional-command-line-usage)
+- [GitHub Configuration](#github-configuration)
+- [GitHub Authentication](#github-authentication)
+- [GitHub Branch Management](#github-branch-management)
+- [GitHub Repository Management](#github-repository-management)
+- [GitHub Issue and Pull Request Management](#github-issue-and-pull-request-management)
+- [GitHub Repository Cleanup](#github-repository-cleanup)
+- [GitHub Tag Management](#github-tag-management)
+- [GitHub Alias Configuration](#github-alias-configuration)
+- [GitHub Fork Management](#github-fork-management)
+- [GitHub Submodule Management](#github-submodule-management)
 - [most Command Line Usage](#most-command-line-usage)
 - [GitHub Docs](https://docs.github.com/en)
 
