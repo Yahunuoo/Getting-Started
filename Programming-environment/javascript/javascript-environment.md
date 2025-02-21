@@ -1,6 +1,6 @@
-# ![js-header](/Assets/images/js-header.png)
+# Configuring the JavaScript Setup Environment
 
-## Configuring the JavaScript Setup Environment
+## ![js-header](/Assets/images/js-header.png)
 
 ## Table of Contents
 
