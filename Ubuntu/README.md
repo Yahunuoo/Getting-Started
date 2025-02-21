@@ -1,4 +1,4 @@
-# ![Configuring a development environment Ubuntu  - 2025](../Assets/images/ubuntu.png)
+# ![Configuring a development environment Ubuntu  - 2025](/Assets/images/ubuntu1.png)
 
 ## Configuring a workstation Ubuntu
 
