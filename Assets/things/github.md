@@ -1,6 +1,7 @@
 # ![github](/Assets/images/github.png)
 
 ## Table of Contents
+
 - [Additional Command Line Usage](#additional-command-line-usage)
 - [GitHub Configuration](#github-configuration)
 - [GitHub Authentication](#github-authentication)
@@ -68,6 +69,7 @@ git stash
 # Apply stashed changes
 git stash apply
 ```
+
 ## GitHub Configuration
 
 Here are some commands to configure GitHub settings:
@@ -91,6 +93,7 @@ git config --global merge.tool vimdiff
 # List all Git configurations
 git config --list
 ```
+
 ## GitHub Authentication
 
 Here are some commands to manage GitHub authentication:
@@ -105,6 +108,7 @@ git config --global credential.helper store
 # Use a personal access token for authentication
 git remote set-url origin https://<TOKEN>@github.com/username/repository.git
 ```
+
 ## GitHub Branch Management
 
 Here are some commands to manage branches in GitHub:
@@ -128,6 +132,7 @@ git push origin new-branch-name
 # Set the upstream branch for the current branch
 git push --set-upstream origin branch-name
 ```
+
 ## GitHub Repository Management
 
 Here are some commands to manage your GitHub repositories:
@@ -154,6 +159,7 @@ git clone -b branch-name https://github.com/username/repository.git
 # View remote repositories
 git remote -v
 ```
+
 ## GitHub Issue and Pull Request Management
 
 Here are some commands to manage issues and pull requests on GitHub:
@@ -183,6 +189,7 @@ gh pr merge PR_NUMBER
 # Close a pull request
 gh pr close PR_NUMBER
 ```
+
 ## GitHub Repository Cleanup
 
 Here are some commands to clean up your GitHub repository:
@@ -200,6 +207,7 @@ git clean -X -f
 # Remove both untracked and ignored files from the working directory
 git clean -x -f
 ```
+
 ## GitHub Tag Management
 
 Here are some commands to manage tags in GitHub:
@@ -226,6 +234,7 @@ git push origin --delete tag-name
 # View details of a tag
 git show tag-name
 ```
+
 ## GitHub Alias Configuration
 
 Here are some commands to create aliases for common Git commands:
@@ -249,6 +258,7 @@ git config --global alias.mg merge
 # Create an alias for git log with a pretty format
 git config --global alias.lg "log --oneline --graph --decorate --all"
 ```
+
 ## GitHub Fork Management
 
 Here are some commands to manage forks in GitHub:
@@ -266,6 +276,7 @@ git merge upstream/main
 # Push changes to your fork
 git push origin main
 ```
+
 ## GitHub Submodule Management
 
 Here are some commands to manage submodules in GitHub:
