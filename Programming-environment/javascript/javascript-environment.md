@@ -1,4 +1,4 @@
-# ![js](/Assets/images/jsstup.png)
+# ![js](/Assets/images/js.png)
 
 ## Configuring the JavaScript Setup Environment
 
