@@ -7,4 +7,4 @@
 
 ## Preparing and configuring a programming language environment
 
-1. [JavaScript](/Programming-environment/javascript/javascript-environment.md#configuring-ubuntu-desktop)
+1. [JavaScript](/Programming-environment/javascript/javascript-environment.md#table-of-contents)
