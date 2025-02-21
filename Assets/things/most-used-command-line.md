@@ -1,4 +1,8 @@
-# Most Used Command Line Commands for GitHub, Ubuntu, Windows, and Mac
+# ![command line](/Assets/images/commandline.png)
+
+## Most Used Command Line Commands for GitHub, Ubuntu, Windows, and Mac
+
+## Table of Contents
 
 ## GitHub
 
