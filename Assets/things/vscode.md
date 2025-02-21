@@ -2,6 +2,9 @@
 
 ## Table of Contents
 
+- [VSCode Extensions](#vscode-extensions)
+- [Optional Themes](#optional-themes)
+
 ## VSCode Extensions
 
 - **[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)** - helps you create more human-friendly comments in your code.
