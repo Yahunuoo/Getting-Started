@@ -4,6 +4,11 @@
 
 ## Table of Contents
 
+- [GitHub](#github)
+- [Ubuntu](#ubuntu)
+- [Windows](#windows)
+- [Mac](#mac)
+
 ## GitHub
 
 - `git clone <repository-url>`: Clone a repository.
