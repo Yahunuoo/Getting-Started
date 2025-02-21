@@ -1,4 +1,4 @@
-# ![resources](/Assets/images/Resources.png)
+# ![resources](/Assets/images/resources.png)
 
 ## Things that help with programming
 
