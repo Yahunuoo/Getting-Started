@@ -1,9 +1,6 @@
-<h1 align="center">
- <img src="./Assets/images/jsstup.png">
-  <br />
-  Configuring the JavaScript Setup Environment
-</h1>
+# ![js](/Assets/images/jsstup.png)
 
+## Configuring the JavaScript Setup Environment
 
 ## Table of Contents
 
