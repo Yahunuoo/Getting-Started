@@ -1,4 +1,6 @@
-# Configuring the JavaScript Setup Environment
+# ![js](/Assets/images/jsstup.png)
+
+## Configuring the JavaScript Setup Environment
 
 ## Table of Contents
 
