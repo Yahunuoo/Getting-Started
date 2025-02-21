@@ -1,4 +1,4 @@
-# ![Configuring a development environment windows  - 2025](../Assets/images/ubuntu.png)
+# ![Configuring a development environment windows](/Assets/images/windows.png)
 
 ## Configuring a development environment windows
 
