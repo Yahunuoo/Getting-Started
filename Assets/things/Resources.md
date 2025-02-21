@@ -1,4 +1,6 @@
-# Things that help with programming
+# ![resources](/Assets/images/Resources.png)
+
+## Things that help with programming
 
 1. Tools to dawnload
     * [Front-End test your sites for multiple devices](https://responsively.app/)
