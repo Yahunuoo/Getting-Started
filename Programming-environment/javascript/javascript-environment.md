@@ -1,6 +1,6 @@
 # Configuring the JavaScript Setup Environment
 
-## ![js-header](/Assets/images/js-header.png)
+## ![js-header](/Assets/images/configuring-programming-language-environment.png)
 
 ## Table of Contents
 
