@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [GitHub](#github) | ***([More github commands](/Assets/things/github.md))***
-- [Ubuntu](#ubuntu) More ubuntu commands[here](#github)
+- [Ubuntu](#ubuntu) More ubuntu commands[here](#)
 - [Windows](#windows)
 - [Mac](#mac)
 

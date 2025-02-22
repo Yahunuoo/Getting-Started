@@ -1,5 +1,9 @@
 # ![Configuring a development environment Ubuntu  - 2025](/Assets/images/ubuntu1.png)
 
+## Ubuntu commands
+
+* [Ubuntu commands](/Ubuntu/commands-line.md#ubuntu-command) The Ubuntu commands
+
 ## Configuring a workstation Ubuntu
 
 * [Ubuntu desktops](./ubuntu-desktop.md#table-of-contents)
