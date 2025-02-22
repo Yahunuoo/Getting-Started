@@ -6,7 +6,7 @@
 
 - [GitHub](#github) | **([More github commands](/Assets/things/github.md))**
 - [Ubuntu](#ubuntu) | ***([More ubuntu commands](/Ubuntu/ubuntu-commands-line.md#commands-for-ubuntu))***
-- [Windows](#windows) | ***([More windows commands](#))***
+- [Windows](#windows) | ***([More windows commands](/Windows/windows-commands-line.md#commands-for-windows))***
 - [Mac](#mac) | ***([More mac commands](#))***
 
 ## GitHub
