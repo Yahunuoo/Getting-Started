@@ -17,6 +17,7 @@
 ## Basic Commands
 
 ### `pwd`
+
 Prints the current working directory.
 
 ```bash
@@ -24,6 +25,7 @@ pwd
 ```
 
 ### `ls`
+
 Lists the files and directories in the current directory.
 
 ```bash
@@ -31,6 +33,7 @@ ls
 ```
 
 ### `cd`
+
 Changes the current directory.
 
 ```bash
@@ -38,6 +41,7 @@ cd /path/to/directory
 ```
 
 ### `mkdir`
+
 Creates a new directory.
 
 ```bash
