@@ -1,6 +1,6 @@
 # ![ubuntu command ](/Assets/images/ubuntu-command-line.png)
 
-## Command Line Commands for Ubuntu
+## Commands for Ubuntu
 
 ## Table of Contents
 
