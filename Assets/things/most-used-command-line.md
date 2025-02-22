@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [GitHub](#github) | **([More github commands](/Assets/things/github.md))**
-- [Ubuntu](#ubuntu) | ***([More ubuntu commands](/Ubuntu/commands-line.md#command-line-commands-for-ubuntu))***
+- [Ubuntu](#ubuntu) | ***([More ubuntu commands](/Ubuntu/ubuntu-commands-line.md#commands-for-ubuntu))***
 - [Windows](#windows) | ***([More windows commands](#))***
 - [Mac](#mac) | ***([More mac commands](#))***
 
