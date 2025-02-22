@@ -1,4 +1,4 @@
-# ![mac command - 2025 ](/Assets/images/windows-commands-line.png)
+# ![mac command - 2025 ](/Assets/images/)
 
 ## Commands for mac
 
