@@ -1,5 +1,5 @@
-# ![mac command - 2025 ](/Assets/images/mac-commands-line-1.png)
+# Commands for mac
 
-## Commands for mac
+## ![mac command - 2025 ](/Assets/images/mac-command%20-2025.png)
 
 ## Table of Contents
