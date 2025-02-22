@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
-- [GitHub](#github) | ***([More github commands](/Assets/things/github.md))***
+- [GitHub](#github) | **([More github commands](/Assets/things/github.md))**
 - [Ubuntu](#ubuntu) | ***([More ubuntu commands](/Ubuntu/commands-line.md#command-line-commands-for-ubuntu))***
-- [Windows](#windows) | ***([More github commands](#))***
-- [Mac](#mac) | ***([More github commands](#))***
+- [Windows](#windows) | ***([More windows commands](#))***
+- [Mac](#mac) | ***([More mac commands](#))***
 
 ## GitHub
 
