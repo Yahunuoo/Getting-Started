@@ -1,4 +1,4 @@
-# ![install - 2025](./Assets/images/home-heders.png)
+# ![install - 2025](./Assets/images/Preparing-the-workstation-and-set-up-the-programming-language-environment-2.png)
 
 ## Resources
 
