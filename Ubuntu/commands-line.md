@@ -1,4 +1,4 @@
-# ![ubuntu command ](./Assets/images/home-heders.png)
+# ![ubuntu command ](/Assets/images/ubuntu-command-line.png)
 
 ## Command Line Commands for Ubuntu
 
