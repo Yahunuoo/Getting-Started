@@ -1,6 +1,6 @@
 # Preparing and configuring a programming language environment
 
-## ![Preparing and configuring a programming language environment](/Assets/images/configuring-programming-language-environment-1.png)
+## ![Preparing and configuring a programming language environment](/Assets/images/Preparing-and-configuring-a-programming-language-environment.png)
 
 ## Table of Contents
 
