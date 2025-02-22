@@ -2,7 +2,7 @@
 
 ## Ubuntu commands
 
-* [Ubuntu commands](/Ubuntu/ubuntu-commands-line.md#ubuntu-command) The Ubuntu commands
+* [Ubuntu commands](/Ubuntu/ubuntu-commands-line.md#commands-for-ubuntu) The Ubuntu commands
 
 ## Configuring a workstation Ubuntu
 
