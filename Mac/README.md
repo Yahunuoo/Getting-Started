@@ -1,6 +1,6 @@
-# ![mac](/Assets/images/apple-mac.png)
+# Configuring a development environment mac
 
-## Configuring a development environment mac
+## ![mac](/Assets/images/apple-mac.png)
 
 ## Table of Contents
 
