@@ -1,4 +1,4 @@
-# ![install - 2025](./Assets/images/Preparing-the-workstation-and-set-up-the-programming-language-environment-1.png)
+# ![install - 2025](./Assets/images/Preparing-the-workstation-and-set-up-the-programming-language-environment-2.png)
 
 ## Resources
 
