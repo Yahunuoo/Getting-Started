@@ -1,4 +1,4 @@
-# ![mac command - 2025 ](/Assets/images/mac-commands-line.png)
+# ![mac command - 2025 ](/Assets/images/mac-commands-line-s.png)
 
 ## Commands for mac
 
