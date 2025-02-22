@@ -1,4 +1,4 @@
-# ![mac](/Assets/images/mac.png)
+# ![mac](/Assets/images/apple-mac.png)
 
 ## Configuring a development environment mac
 
