@@ -35,4 +35,4 @@ Once your IDE is ready, install the `programming language's compiler or interpre
 
 * [Programming Language](/Programming-environment/README.md)
 
-## ![Celebrate-2025](/Assets/images/All-Set-Has-Done-2.png)
+## ![Celebrate-2025](/Assets/images/All-Set-Has-Done-4.png)
