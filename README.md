@@ -1,4 +1,4 @@
-# ![install - 2025](./Assets/images/Preparing-the-workstation-and-set-up-the-programming-language-environment-2.png)
+# ![install - 2025](/Assets/images/All-Set-Has-Done.png)
 
 ## Preparing the workstation and/then set up the programming language environment
 
