@@ -40,3 +40,5 @@ Once your IDE is ready, install the `programming language's compiler or interpre
 <img src="Assets/images/All-Set-Has-Done.png" alt="all set has done"/>
 
 </div>
+
+## ![Celebrate-2025](/Assets/images/Celebrate-The-workstation-is-ready-and-the-programming-language-environment-is-set-up.png)
