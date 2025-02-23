@@ -35,4 +35,8 @@ Once your IDE is ready, install the `programming language's compiler or interpre
 
 * [Programming Language](/Programming-environment/README.md)
 
-## ![celebrate](/Assets/images/All-Set-Has-Done.png)
+<div align="center">
+
+<img src="Assets/images/All-Set-Has-Done.png" alt="all set has done"/>
+
+</div>
