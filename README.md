@@ -2,6 +2,14 @@
 
 ## Preparing the workstation and/then set up the programming language environment
 
+## Table of Contents
+
+* [Introduction](#introduction)
+* [Resources](#resources)
+* [Preparing and configuring a workstation](#preparing-and-configuring-a-workstation)
+* [Fundamental tools](#fundamental-tools)
+* [Preparing and configuring a programming language environment](#preparing-and-configuring-a-programming-language-environment)
+
 ## Introduction
 
 Setting up a `workstation` and programming language `environment` involves several key steps to ensure a smooth and efficient workflow. First, choose a suitable operating system that supports your programming needs, such as **`Windows`**, **`macOS`**, or **`Linux`**. Install any necessary software updates to ensure security and compatibility. Next, decide on the integrated development environment `(IDE)` or code editor that best suits your programming language, such as `Visual Studio Code`, `PyCharm`, or `Eclipse`, and install it on your computer.
