@@ -12,8 +12,10 @@
 
 ## Introduction
 
+```plaintext
 Setting up a `workstation` and programming language `environment` involves several key steps to ensure a smooth and efficient workflow. First, choose a suitable operating system that supports your programming needs, such as **`Windows`**, **`macOS`**, or **`Linux`**. Install any necessary software updates to ensure security and compatibility. Next, decide on the integrated development environment `(IDE)` or code editor that best suits your programming language, such as `Visual Studio Code`, `PyCharm`, or `Eclipse`, and install it on your computer.
 Once your IDE is ready, install the `programming language's compiler or interpreter`, like `Python`, `Java`, or `C++`, ensuring you have the correct version for your project requirements. **Configure** the ***environment*** variables if necessary, so the system can identify the programming tools' location. Additionally, install any required libraries or packages using a package manager like pip for Python or npm for JavaScript. Finally, set up version control with a tool like Git to track changes and collaborate with others. By following these steps, you create a robust environment that supports efficient coding and development practices.
+```
 
 ## Resources
 
