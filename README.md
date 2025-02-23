@@ -34,3 +34,5 @@ Once your IDE is ready, install the `programming language's compiler or interpre
 ## Preparing and configuring a programming language environment
 
 * [Programming Language](/Programming-environment/README.md)
+
+## ![celebrate](/Assets/images/Celebrate-The-workstation-is-ready-and-the-programming-language-environment-is-set-up.png)
