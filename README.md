@@ -1,4 +1,4 @@
-# ![install - 2025](/Assets/images/All-Set-Has-Done.png)
+# ![install - 2025](./Assets/images/Preparing-the-workstation-and-set-up-the-programming-language-environment-2.png)
 
 ## Preparing the workstation and/then set up the programming language environment
 
@@ -35,4 +35,4 @@ Once your IDE is ready, install the `programming language's compiler or interpre
 
 * [Programming Language](/Programming-environment/README.md)
 
-## ![celebrate](/Assets/images/Celebrate-The-workstation-is-ready-and-the-programming-language-environment-is-set-up.png)
+## ![celebrate](/Assets/images/All-Set-Has-Done.png)
