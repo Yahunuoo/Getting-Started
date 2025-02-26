@@ -1,6 +1,6 @@
-# Ubuntu commands
-
 ## ![Configuring a development environment Ubuntu  - 2025](/Assets/images/ubuntu-4.png)
+
+## Ubuntu commands
 
 * [Ubuntu commands](/Ubuntu/ubuntu-commands-line.md#commands-for-ubuntu) The Ubuntu commands
 
