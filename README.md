@@ -22,7 +22,7 @@ Once your IDE is ready, install the `programming language's compiler or interpre
 
 ## Preparing and configuring a workstation
 
-* [Windows (soon)](./Windows)
+* [Windows](./Windows)
 * [Ubuntu](/Ubuntu/README.md)
 * [Mac](./Mac)
 
