@@ -19,7 +19,7 @@ Once your IDE is ready, install the `programming language's compiler or interpre
 
 * [Resources](/Assets/things/Resources.md) Resources that help with programming
 * [Command line](/Assets/things/most-used-command-line.md) Quick access to the most commonly used command line
-* [Articles](./../../Yahunuoo/Getting-Started/../../Documentare/Articles/README.md) articles miscellaneous about the world of programming
+* [Articles](./../../Yahunuoo/Getting-Started/../../Articles/README.md) articles miscellaneous about the world of programming
 
 ## Preparing and configuring a workstation
 
