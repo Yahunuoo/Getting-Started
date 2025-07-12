@@ -27,6 +27,8 @@
 - `rm <file>`: Remove files or directories.
 - `sudo apt update`: Update package lists.
 - `sudo apt upgrade`: Upgrade all packages.
+- `mkdir -p anyname/name1 anyname/name2`: folders name1 and name2 will both be inside the main folder called anyname.
+
 
 ## Windows
 
