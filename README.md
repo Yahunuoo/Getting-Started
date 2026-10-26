@@ -48,16 +48,3 @@ Keep development projects inside the Linux filesystem, for example:
 ```
 
 Use Windows for desktop applications such as VS Code and Windows Terminal, and use WSL/Ubuntu for the development command line and project files.
-
-## What is intentionally not included
-
-This repository no longer contains setup guides for:
-
-- macOS
-- Windows 10
-- Ubuntu Desktop as a standalone workstation
-- Ubuntu Server as a standalone workstation
-
-Ubuntu is used only through **WSL 2**.
-
-![Setup complete](./assets/images/all-set.png)
