@@ -2,17 +2,17 @@
 
 ![Getting Started](./assets/images/home-banner.png)
 
-Personal setup guide for preparing a **Windows 11 development workstation** using **WSL 2 + Ubuntu**, with the development tools installed in the correct place for a Windows/WSL workflow.
+A personal setup guide for preparing a **Windows 11 development workstation** with **WSL 2 + Ubuntu**, placing each development tool in the right environment for a clean and reliable Windows/WSL workflow.
 
 > Last reviewed: 2026-10-26
 
 ## Setup path
 
-Follow these pages in order when preparing a new computer:
+Use these pages in order when setting up a new computer:
 
 1. [Windows 11 + WSL development setup](./windows-11/README.md)
 
-After the initial setup, use these as references:
+After the initial setup, use the following pages as references:
 
 - [VS Code](./tools/vscode.md)
 - [Git & GitHub](./tools/git-github.md)
@@ -22,7 +22,7 @@ After the initial setup, use these as references:
 
 ## Environment model
 
-This guide uses the following model:
+This guide follows the model below:
 
 ```text
 Windows 11
@@ -41,12 +41,12 @@ Windows 11
 
 ### Important rule
 
-Keep development projects inside the Linux filesystem, for example:
+Keep active development projects inside the Linux filesystem, for example:
 
 ```text
 ~/code
 ```
 
-Use Windows for desktop applications such as VS Code and Windows Terminal, and use WSL/Ubuntu for the development command line and project files.
+Use Windows for desktop applications such as VS Code and Windows Terminal. Use WSL/Ubuntu for the development command line, runtime tools, and project files.
 
 ![Getting Started](./assets/images/all-set.webp)
