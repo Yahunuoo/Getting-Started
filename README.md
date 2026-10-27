@@ -48,4 +48,5 @@ Keep development projects inside the Linux filesystem, for example:
 ```
 
 Use Windows for desktop applications such as VS Code and Windows Terminal, and use WSL/Ubuntu for the development command line and project files.
+
 ![Getting Started](./assets/images/all-set.webp)
